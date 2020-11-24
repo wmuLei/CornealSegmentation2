@@ -1,2 +1,1 @@
-# CornealSegmentation2
-A edge-aware deep convolutional network based on the U-Net and a traditional edge detection technique
+A edge-enhanced deep convolutional network (EE-Net) based on the U-Net for corneal segmentation
